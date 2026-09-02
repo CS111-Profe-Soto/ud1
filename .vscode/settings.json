@@ -13,7 +13,6 @@
     "**/.devcontainer": true,
     "**/.github": true,
     "**/.gitignore": true,
-    "**/.test": true,
     "**/.vscode": true,
     "**/.classroom50.yaml": true
   },
@@ -30,10 +29,6 @@
   "markdown.preview.doubleClickToSwitchToEditor": false,
 
   "java.project.sourcePaths": [
-    ".",
-    ".test"
-  ],
-  "java.project.referencedLibraries": [
-    ".test/**/*.jar"
+    "."
   ]
 }
