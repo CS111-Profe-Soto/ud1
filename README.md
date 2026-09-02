@@ -1,41 +1,41 @@
-# Unit Deliverable 00: Project_Name
+# Unit Deliverable 1: Java Fundamentals
 
-## Objectives
-- Objective
+## Objective
+- Create a Java program using Unit 1 topics to demonstrate knowledge and mastery.
 
-## Program Description
-Lorem ipsum.
+## Requirements
+- Tie it to a real-world topic:
+  - Should be linked to an article, podcast, video, etc.
+OR 
+  - A personal idea for something that is useful/fun for you, your community, etc.
+- Must use materials from, and restricted to, topics we've covered so far: data/typecasting, basic output, formatted output, static methods and parameters. Specifically:
+  - At least 5 data variables, and use of String, int, and double
+  - At least 2 distinct static method definitions per group member used in your program in a useful way
+  - Demonstration of some sort of calculation or transformation of data
+  - Formatted output used in a meaningful way
 
-## Instructions
-1. Instruction
+## Resources
+OLI Modules + Lecture Videos for examples, Java syntax rules, and strategy
 
-## Program Specifications
-- Specification
+Labs for larger examples, getting inspiration or ideas
 
-## Sample Code
-```java
-public class ClassName {
-    public static void main(String[] args) {
-        System.out.println("output");
-    }
-}
-```
+## EARN Grade
+All group members might not receive the same score. Be sure to indicate which parts of the project you contributed. You may also be asked to explain portions of the code so that I can distinguish your personal understanding of the material.
 
-## Sample Output
-```
-output
-```
+🚀 **E**xemplary
+- Everything for an A.
+- Code is well-documented and follows all course style conventions.
+- This work could be used as a classroom example.
 
-## Coding Standards
-- Follow the program specifications exactly.
-- Use meaningful identifiers and follow Java naming conventions.
-- Remove all auto-generated comments and unused code.
-- Document code using [JavaDoc](https://www.baeldung.com/javadoc), including:
-   - Program/class description
-   - Attribution using the `@author` tag.
-- Comment only when necessary.
-- Format code cleanly and consistently
-   - Proper indentation
-   - Brace alignment
-   - Whitespace for readability
-- Ensure prompts and output are clear and properly formatted.
+✅ **A**cceptable
+- Understanding of the concepts is evident.
+- Code compiles and runs without errors.
+- All of the requirements are met.
+
+🔧 **R**evision Required
+- Partial understanding of the concepts is evident, but there are significant gaps.
+- Further review and improvements required.
+- Program does not run or not all requirements are met.
+
+❌ **N**ot Assessable
+- Not enough information is present in the work to determine whether there is understanding of the concepts.
